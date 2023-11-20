@@ -1,0 +1,7 @@
+name: fvm_poc_pipeline
+
+packages:
+  - app
+  - pkg
+
+ 
