@@ -4,4 +4,8 @@ packages:
   - app
   - pkg
 
+sdkPath: .fvm/flutter_sdk
  
+scripts:
+  say_version:
+    exec: flutter --version
